@@ -51,6 +51,10 @@
 
 [Look Here!](https://soniccloudorg.github.io/contribute/con-agent.html)
 
+## scrcpy Upgrade SOP
+
+[Read Here](SCRCPY_UPGRADE_SOP.md)
+
 ## Sponsors
 
 Thank you to all our sponsors!

@@ -50,6 +50,10 @@
 
 [查看这里](https://soniccloudorg.github.io/contribute/con-agent.html)
 
+## scrcpy 升级 SOP
+
+[查看文档](SCRCPY_UPGRADE_SOP.md)
+
 ## 赞助商
 
 感谢所有赞助商！
